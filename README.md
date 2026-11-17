@@ -102,6 +102,5 @@ ecommerce-sales-sql-analysis/
 
 QA tester (2 years) moving into data analysis. I like finding out whether data can be trusted before I draw conclusions from it.
 
-- Name: [Your Name]
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your email]
+- Name: Harshith P
+- Email: harshithnaani@gmail.com
