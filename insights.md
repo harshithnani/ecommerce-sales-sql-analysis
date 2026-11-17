@@ -1,5 +1,5 @@
-Insights: E-commerce Sales Analysis (MySQL)
-
+**Insights: E-commerce Sales Analysis (MySQL)
+**
 Dataset: E-Commerce Customer Behavior & Sales Analysis - TR (Kaggle, author: umuttuygurr, licence CC0). Scope: 5,000 orders, 8 product categories, 10 Turkish cities, 2023-01-01 to 2024-03-26. All amounts are in Turkish Lira (TRY).
 
 Headline findings
